@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [RC4Conferences](https://github.com/RocketChat/RC4Conferences) projects. (Please feel free to have a look; we would love to have your contributions.)
+- 🔭 I’m currently working on [RC4Conferences](https://github.com/RocketChat/RC4Conferences) project. (Please feel free to have a look; we would love to have your contributions.)
 - 🌱 I’m currently learning things that sounds intersting.
 - 👯 I’m looking to collaborate on your project.
 - 🤔 I’m looking for help with ...
