@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [RC4Conferences](https://github.com/RocketChat/RC4Conferences) project. (Please feel free to have a look; we would love to have your contributions.)
-- 🌱 I’m currently learning things that sounds intersting.
-- 👯 I’m looking to collaborate on your project.
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning more about Web3, and Dew, along with few techniques of Deep Learning.
+- 👯 I’m looking to collaborate on IPFS, and RC repositories.
+- 🤔 I’m looking for help with getting myself a good issue to work on.
 - 💬 Ask me about anything.
 - 📫 How to reach me: Send me an hello [here](mailto:kudokfk0r@mozmail.com) or mention me in any of the issues/PR I have contributed. 
 - 😄 Pronouns: ...
