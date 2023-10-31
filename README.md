@@ -1,13 +1,27 @@
-### Hi there 👋
+## こんにちは, デワンシュと申します。👋
 
-- 🔭 I’m currently working on [RC4Conferences](https://github.com/RocketChat/RC4Conferences) project. (Please feel free to have a look; we would love to have your contributions.)
-- 🌱 I’m currently learning more about Web3, and Dew, along with few techniques of Deep Learning.
-- 👯 I’m looking to collaborate on IPFS, and RC repositories.
-- 🤔 I’m looking for help with getting myself a good issue to work on.
-- 💬 Ask me about anything.
-- 📫 How to reach me: Send me an hello [here](mailto:kudokfk0r@mozmail.com) or mention me in any of the issues/PR I have contributed. 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: That's a secret!
+#### 🚀 About Me
+I'm a developer who is passionate about web development and artificial intelligence. In my spare time, I enjoy reading light novels and manga.
+
+#### 🛠 Skills
+- Artificial Intelligence (mostly LLMs and NLP)
+- Web Development
+
+#### 📚 I'm currently learning
+- Advanced AI algorithms
+- New web development frameworks
+
+#### 🎯 Goals for 2023
+- Contribute to Open Source projects
+- Read 20 new light novels
+- If you are a professor who could provide guidance in my NLP research journey, I would be deeply grateful for the opportunity to connect and learn from your expertise.
+
+#### 📫 How to reach me
+You can contact me at [Email](mailto:sdevanshu90@gmail.com) or LinkedIn.
+
+#### ⚡ Fun fact
+I have a character inspired by Nano-chan as my GitHub profile picture!
+
 <!--
 **Dnouv/Dnouv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
