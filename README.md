@@ -1,44 +1,30 @@
-## こんにちは, デワンシュと申します。👋
+## こんにちは、デワンシュと申します — but you might know me as “Dnouv”.
 
-#### 🚀 About Me
+### Who I am
+I’m a backend‑leaning software engineer at **Rocket.Chat** who can’t resist wandering into infrastructure, frontend experiments, community building -- and lately, **applied AI**.  
+Right now, I lead the effort to bring Large Language Models into the Rocket.Chat ecosystem, building conversational features that feel more *human* than *bot*.
 
-I'm a developer who is passionate about web development and artificial intelligence. In my spare time, I enjoy reading light novels and manga.
+### What I’ve built and shipped
+| Year | Highlight | Notes |
+|------|-----------|-------|
+| 2024‑25 | **Rocket.Chat AI** integration | From proof‑of‑concept to production (concurrent + streaming inference, guardrails, agent support). |
+| 2023‑25 | **Google Summer of Code mentor & community coordinator** | Mentored three official projects (plus a few unofficially), and helped grow the GSoC community through multiple events. |
+| 2023 | **AI Moderation** | Rolled out moderation features for a community of ~500,000 users using LLMs and hybrid filtering. |
+| 2022 | **Event Management System** (GSoC project) | My first open‑source deep dive - still maintained and used today. |
 
-#### 🛠 Skills
+### Current goals
+- **Ship** a fully‑featured “agentic” mode in Rocket.Chat AI (tool invocation, context recall, persona memory).  
+- **Publish** a paper on applied LLMs (agentic systems for hour‑to‑hour task assistance), and find a supervising professor in Japan.  
+- **Pass** JLPT N2 by December 2025 — お互い頑張りましょう！  
+- **Contribute** two meaningful PRs to projects I rely on every day (open source *gives*; time to give back more).
 
-- Artificial Intelligence (mostly LLMs and NLP)
-- Web Development
+### Tech & tooling I enjoy
+`TypeScript` · `Python` · `MongoDB` · `FastAPI` · `Docker` + `Kubernetes` · `LLM eval tooling` · a sprinkle of `Next.js` when nobody's looking.
 
-#### 📚 I'm currently learning
+### Outside the terminal
+- Kaggle night owl chasing leaderboard sparks.  
+- Language learner; explaining tricky Japanese grammar keeps my impostor syndrome in check.
 
-- Advanced AI algorithms
-- New web development frameworks
-
-#### 🎯 Goals for 2023
-
-- Contribute to Open Source projects
-- Read 20 new light novels
-- If you are a professor who could provide guidance in my NLP research journey, I would be deeply grateful for the opportunity to connect and learn from your expertise.
-
-#### 📫 How to reach me
-
-You can contact me at [Email](mailto:evan.shu.dev@gmail.com) or LinkedIn.
-
-#### ⚡ Fun fact
-
-I have a character inspired by Nano-chan as my GitHub profile picture!
-
-<!--
-**Dnouv/Dnouv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on MEAN, MERN, Python projects.
-- 🌱 I’m currently learning things that sounds intersting.
-- 👯 I’m looking to collaborate on your project.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: That's a secret!
--->
+### Let’s connect
+- **Email:** evan.shu.dev at gmail dot com  
+Feel free to reach out about open source, conversational AI, language learning, or your latest side‑project rabbit hole.
