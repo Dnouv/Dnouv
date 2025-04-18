@@ -14,7 +14,9 @@ Right now, I lead the effort to bring Large Language Models into the Rocket.Ch
 
 ### Current goals
 - **Ship** a fully‑featured “agentic” mode in Rocket.Chat AI (tool invocation, context recall, persona memory).  
-- **Publish** a paper on applied LLMs (agentic systems for hour‑to‑hour task assistance), and find a supervising professor in Japan.  
+- **Publish** a paper on applied LLMs (agentic systems for hour‑to‑hour task assistance), and find a supervising professor in Japan.
+
+  → もしこの分野に興味のある日本の先生が読んでくださっていたら、ぜひお話ししてみたいです！
 - **Pass** JLPT N2 by December 2025 — お互い頑張りましょう！  
 - **Contribute** two meaningful PRs to projects I rely on every day (open source *gives*; time to give back more).
 
